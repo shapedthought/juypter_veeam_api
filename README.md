@@ -12,4 +12,4 @@ To install Jupyter Lab (recommended) simply enter in CMD:
 
 Then to run:
 
-    jupyter notebook
+    jupyter-lab
